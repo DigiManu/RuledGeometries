@@ -1,2 +1,2 @@
 # RuledGeometries
-Reverse Engineering Algorithm for Cutting  of Ruled Geometries by Wire
+Reverse Engineering Algorithm for Wire Cutting  of Ruled Geometries (expressed in triangular mesh format)
